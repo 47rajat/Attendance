@@ -1,2 +1,2 @@
 # Attendance
-A simple JavaScript based web app.
+A simple JavaScript based attendance web app.
