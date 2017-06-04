@@ -1,2 +1,2 @@
-udacity-frontend-attendance
-===========================
+# Attendance
+A simple JavaScript based web app.
